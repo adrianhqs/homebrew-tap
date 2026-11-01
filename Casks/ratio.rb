@@ -2,8 +2,7 @@ cask "ratio" do
   version "0.15.6"
   sha256 "6822aae01962f8d8771e9e40e79570d320e9544f1127eb922916d0162d9e9c03"
 
-  url "https://github.com/adrianhqs/ratio-releases/releases/download/v#{version}/Ratio-#{version}.dmg",
-      verified: "github.com/adrianhqs/ratio-releases/"
+  url "https://github.com/adrianhqs/ratio-releases/releases/download/v#{version}/Ratio-#{version}.dmg"
   name "Ratio"
   desc "Notepad calculator with live currencies, units and dates"
   homepage "https://useratio.app/"
