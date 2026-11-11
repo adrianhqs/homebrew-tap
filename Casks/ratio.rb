@@ -1,6 +1,6 @@
 cask "ratio" do
-  version "0.15.6"
-  sha256 "6822aae01962f8d8771e9e40e79570d320e9544f1127eb922916d0162d9e9c03"
+  version "0.15.13"
+  sha256 "58222064eee9ebdd34d4a87b820dd37db76f5b3c4a17ee0240277e702726be71"
 
   url "https://github.com/adrianhqs/ratio-releases/releases/download/v#{version}/Ratio-#{version}.dmg"
   name "Ratio"
